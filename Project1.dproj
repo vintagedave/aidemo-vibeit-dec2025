@@ -127,6 +127,12 @@
             <Form>Form1</Form>
             <FormType>dfm</FormType>
         </DCCReference>
+        <DCCReference Include="Maze.Generation.pas"/>
+        <DCCReference Include="SettingsForm.pas">
+            <Form>SettingsForm</Form>
+            <FormType>dfm</FormType>
+        </DCCReference>
+        <DCCReference Include="Maze.Settings.pas"/>
         <BuildConfiguration Include="Base">
             <Key>Base</Key>
         </BuildConfiguration>
