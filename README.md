@@ -6,7 +6,7 @@ CodeBot's prompt (typos included) was:
 
 > Hello. Please make this app display mazes. Add a settings dialog wher ethe user can choose between two maze generaiton algorithms. On the main form add buttons to display settings and to rengerate the maze.
 
-This code was generated in 'Vibe It' mode (no code review), not 'Thorough' mode (higher quality.) You can expect Thorough mode to be better architected, using more interfaces and separated dependencies, etc; you can expect Vibe It mode to be faster.
+This code was generated in 'Vibe It' mode (no code review), not 'Thorough' mode (higher quality.) You can expect [Thorough mode](https://github.com/vintagedave/aidemo-thorough-dec2025) to be better architected, using more interfaces and separated dependencies, etc; you can expect Vibe It mode to be faster.
 
 The app worked first time.
 
